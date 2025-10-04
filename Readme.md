@@ -2,15 +2,15 @@
 
 A React js based frontend UI for university students and society members to collaborate, share announcements, organize events, and communicate easily.
 
-## 🚀 Live Demo
+##  Live Demo
 [Click here to view the app on Vercel](https://google-collaboration-git-main-tayyabs-projects-9d235f55.vercel.app/)
 
-## 📂 Tech Stack
+##  Tech Stack
 - **React 19**
 - **Tailwind CSS v4**
 - **Vercel Deployment**
 
-## 📌 Features
+##  Features
 - Accessible landing page with proper alt text and headings.
 - Dashboard with sidebar navigation and event calendar.
 - Announcements feed with semantic HTML.
